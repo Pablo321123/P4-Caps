@@ -6,5 +6,5 @@
 
 ## Ações disponíveis:  
 ` alterar todo o texto selecionado para minúsculo `  
-` ALTERAR TODO O TEXTO SELECIONADO PARA MAIÚSCULO `
+` ALTERAR TODO O TEXTO SELECIONADO PARA MAIÚSCULO `  
 ` Alterar Todo O Texto Selecionado Para Alternado `  
