@@ -1,5 +1,5 @@
 # P4 Caps
-![Logo do Projeto](https://exemplo.com/logo.png](https://i.ibb.co/xhjMDCx/imagem-2024-07-14-162934734.png)
+![Logo do Projeto](https://i.ibb.co/xhjMDCx/imagem-2024-07-14-162934734.png)
 
 ## Modo de uso:  
 ` Ctrl + Caps Lock `: **Ativa** a ação selecionada.  
