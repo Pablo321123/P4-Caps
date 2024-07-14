@@ -5,6 +5,6 @@
 ` Ctrl + shift + q `: Altera a ação selecionada
 
 ## Ações disponíveis:  
-` alterar todo o texto selecionado para ` **minúsculo**    
-` ALTERAR TODO O TEXTO SELECIONADO PARA ` __MAIÚSCULO__   
-` Alterar Todo O Texto Selecionado Para __Alternado__ `  
+` alterar todo o texto selecionado para minúsculo `  
+` ALTERAR TODO O TEXTO SELECIONADO PARA MAIÚSCULO `
+` Alterar Todo O Texto Selecionado Para Alternado `  
